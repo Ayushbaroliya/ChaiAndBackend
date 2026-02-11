@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushbaroliya/ChaiAndBackend.git"
+  },
+  "keywords": [
+    "node",
+    "ayush"
+  ],
+  "author": "Ayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayushbaroliya/ChaiAndBackend/issues"
+  },
+  "homepage": "https://github.com/Ayushbaroliya/ChaiAndBackend#readme",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1"
+  }
+}
