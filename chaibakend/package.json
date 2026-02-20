@@ -1,0 +1,24 @@
+{
+  "name": "chaibakend",
+  "version": "1.0.0",
+  "description": "projectbased learning",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Ayush Sharma",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  },
+  "dependencies": {
+    "prettier": "^3.8.1"
+  }
+}
